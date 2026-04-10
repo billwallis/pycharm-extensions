@@ -3,9 +3,9 @@ Custom PyCharm Database Extensions
 [PyCharm Professional](https://www.jetbrains.com/pycharm) ships with some `.groovy` scripts as database extensions. This repo adds additional ones to these (mainly just tweaking the existing scripts!).
 
 > The official documentation for PyCharm's database extensions can be found at:
-> 
+>
 > - https://www.jetbrains.com/help/pycharm/relational-databases.html
-> 
+>
 > The aggregators and extractors are documented, respectively, at:
 > - https://www.jetbrains.com/help/pycharm/table-editor.html#aggregate-view
 > - https://www.jetbrains.com/help/pycharm/data-extractors.html
