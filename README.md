@@ -1,5 +1,5 @@
-Custom PyCharm Database Extensions
----
+# Custom PyCharm Database Extensions
+
 [PyCharm Professional](https://www.jetbrains.com/pycharm) ships with some `.groovy` scripts as database extensions. This repo adds additional ones to these (mainly just tweaking the existing scripts!).
 
 > The official documentation for PyCharm's database extensions can be found at:
